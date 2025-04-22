@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRDetection", "QRDetection\QRDetection.csproj", "{264C9D2D-F801-4D82-BDA8-C29504C92A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{264C9D2D-F801-4D82-BDA8-C29504C92A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264C9D2D-F801-4D82-BDA8-C29504C92A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264C9D2D-F801-4D82-BDA8-C29504C92A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264C9D2D-F801-4D82-BDA8-C29504C92A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F67BA33D-6B77-4770-A4A1-177374F6D255}
+	EndGlobalSection
+EndGlobal
